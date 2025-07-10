@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Cholesky Decomposition in VBA
+
+This repository contains a sample VBA module `Cholesky.bas` under the `vba` directory. It provides a function `CholeskyDecomposition` that calculates the lower triangular matrix `L` for a symmetric positive definite matrix `A` such that `A = L * L^T`. The `TestCholesky` subroutine demonstrates how to call the function in the VBA Immediate Window.
+
